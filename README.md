@@ -13,4 +13,4 @@ In [classes folder](https://github.com/SAGO-DSG96/PHP-UNIT6-TECHDEGREE/tree/mast
 
 #How will graded?
 -------------
-![](https://github.com/SAGO-DSG96/PHP-UNIT6-TECHDEGREE/tree/master/rubric.png)
+![](https://github.com/SAGO-DSG96/PHP-UNIT6-TECHDEGREE/blob/master/rubric.png)
