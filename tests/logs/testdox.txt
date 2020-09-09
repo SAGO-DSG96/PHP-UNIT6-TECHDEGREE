@@ -1,0 +1,25 @@
+Listing Basic
+ [x] Exception constructor null parameters test
+ [x] Exception null i d key test
+ [x] Exception null title key test
+ [x] Minimum values arrays key to create object
+ [x] Get status test
+ [x] Get properties test
+ [x] To array test
+ [x] Set website test
+ [x] Set status test
+
+Listing Featured
+ [x] Get status test
+ [x] Get coc test
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Get status test
+ [x] Get description test
+ [x] Display allowed tags test
+

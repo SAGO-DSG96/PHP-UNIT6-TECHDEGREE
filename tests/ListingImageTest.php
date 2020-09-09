@@ -5,7 +5,7 @@
  * Date: 2019-02-01
  * Time: 14:17
  */
-require __DIR__ .'/../classes/ListingBasic.php';
+require_once __DIR__ .'/../classes/ListingBasic.php';
 
 use PHPUnit\Framework\TestCase;
 

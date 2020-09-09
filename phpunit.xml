@@ -1,0 +1,19 @@
+<phpunit
+    bootstrap="vendor/autoload.php"
+    colors="true"
+    printerClass="Codedungeon\PHPUnitPrettyResultPrinter\Printer">
+
+  <filter>
+      <whitelist processUncoveredFilesFromWhitelist="true">
+          <directory suffix=".php">classes</directory>
+      </whitelist>
+  </filter>
+  <logging>
+      <log type="coverage-html" target="tests/logs/report" lowUpperBound="35"
+      highLowerBound="70"/>
+      <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"/>
+      <log type="testdox-html" target="tests/logs/testdox.html"/>
+      <log type="testdox-text" target="tests/logs/testdox.txt"/>
+  </logging>
+  
+</phpunit>
